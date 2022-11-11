@@ -54,5 +54,6 @@
 		"@types/react-router-dom": "^5.3.3",
 		"@types/styled-components": "^5.1.26"
 	},
-	"proxy": "http://localhost:3000"
+	"proxy": "http://localhost:3000",
+	"homepage": "https://github.com/doha-lee/crypto-tracker-c/"
 }
