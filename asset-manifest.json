@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/doha-lee/crypto-tracker-c/static/js/main.33c48073.js",
-    "index.html": "/doha-lee/crypto-tracker-c/index.html",
-    "main.33c48073.js.map": "/doha-lee/crypto-tracker-c/static/js/main.33c48073.js.map"
+    "main.js": "/io/crypto-tracker-c/static/js/main.3f83f7b6.js",
+    "index.html": "/io/crypto-tracker-c/index.html",
+    "main.3f83f7b6.js.map": "/io/crypto-tracker-c/static/js/main.3f83f7b6.js.map"
   },
   "entrypoints": [
-    "static/js/main.33c48073.js"
+    "static/js/main.3f83f7b6.js"
   ]
 }
